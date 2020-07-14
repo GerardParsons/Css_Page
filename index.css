@@ -53,3 +53,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+button {
+    border: 1px solid black;
+   float: right;
+    scroll-margin-top: 10px;
+    display: block;
+
+}
