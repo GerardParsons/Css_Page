@@ -1,0 +1,55 @@
+title {
+    font-family: sans-serif, Simplifica;
+}
+
+body {
+    background-color: aqua;
+}
+   
+
+
+img {
+    width: 200px;
+    height: 150px;
+    display: inline;
+    float: left;
+    clear: left;
+    margin-bottom: 15px;
+}
+h2 {
+    float: left;
+    margin-top: 15px;
+    margin-left: 10px;
+    /* border: 1px solid black; */
+}
+p {
+    float: left;
+    /* border: 1px solid black; */
+    margin: 10px;
+    width: 350px;
+
+}
+h1 {
+    height: 50px;
+    background-color: blanchedalmond;
+    text-align: center;
+}
+h3 {
+    float: left;
+    border: 1px black;
+    margin-left: 10px;
+    color: darkred;
+}
+
+footer {
+    background-color: cadetblue;
+    height: 75px;
+    border: 1px solid black;
+    float: left;
+    width: 16cm;
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
