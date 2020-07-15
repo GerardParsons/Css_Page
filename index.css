@@ -1,5 +1,6 @@
 title {
-    font-family: sans-serif, Simplifica;
+    @import url('https://freebiesbug.com/free-fonts/simplifica-free-font/#:~:text=SIMPLIFICA%20is%20an%20exclusive%20free,Detailed%20view');
+    font-family: Simplifica, Arial, Helvetica, sans-serif ;
 }
 
 body {
