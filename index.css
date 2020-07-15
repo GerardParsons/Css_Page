@@ -1,6 +1,7 @@
 title {
-    @import url('https://freebiesbug.com/free-fonts/simplifica-free-font/#:~:text=SIMPLIFICA%20is%20an%20exclusive%20free,Detailed%20view');
-    font-family: Simplifica, Arial, Helvetica, sans-serif ;
+
+    font-family: Helvetica ;
+
 }
 
 body {
@@ -12,7 +13,6 @@ body {
 img {
     width: 200px;
     height: 150px;
-    display: inline;
     float: left;
     clear: left;
     margin-bottom: 15px;
@@ -34,6 +34,7 @@ h1 {
     height: 50px;
     background-color: blanchedalmond;
     text-align: center;
+    font-family: cursive;
 }
 h3 {
     float: left;
