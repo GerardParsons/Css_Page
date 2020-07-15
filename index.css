@@ -64,3 +64,12 @@ button {
     margin-left: 10px;
     margin-right: 10px;
 }
+.product-container {
+    position: relative;
+    display: flex;
+}
+.content {
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
